@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MadhavPujara
-- 👀 I’m interested in ... javaScrip, AI, ML, Node.js, AWS, Docker, Python, Kubernetes, React.js
-- 🌱 I’m currently learning ...AWS,Docker, Jenkins, Terrform, js, Node.js, React.js
+- 👀 I’m interested in ... JavaScript, AI, ML, Node.js, AWS, Docker, Python, Kubernetes, React.js
+- 🌱 I’m currently learning ...AWS, Docker, Jenkins, Terrform, JavaScript, Node.js, React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pujara.madhav+github@gmail.com
 
